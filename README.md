@@ -51,4 +51,8 @@ We will discover the problem of human activity recognition and the deep learning
 ## Interface of the Android Application:
 ![image](https://user-images.githubusercontent.com/69485235/139670105-3305f44d-74a5-4c0d-bd4e-ddd6ec1c38bd.png)
 
+## Link to Android apk on Google Drive:
+
+       https://drive.google.com/drive/folders/1O8bVE3etUyGzU6uFv1EZQcw69DhdZ5Il?usp=sharing
+
 
